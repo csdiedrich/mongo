@@ -62,7 +62,7 @@ Basta criar o segundo container ja pronto para produção:
 Depois disso precisamos voltar ao server1 e adicionar o segundo container ao replica set:
 
 ```
-> rs.add("node2.mongodb.umbler.com")
+> rs.add("node2")
 > rs.status()
 ```
 
