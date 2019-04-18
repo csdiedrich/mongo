@@ -6,7 +6,7 @@ manager e um slave executando, a ideia inicial eramos ter três servidores, por�
 no lab ter 2 servidores foi o suficiente, o ambiente ficou parecido com essa
 imagem:
 
-[![Fluxo](https://gitlab.com/umbler/infra/mongo_umbler/raw/master/mongo.png)](https://gitlab.com/umbler/infra/mongo_umbler/raw/master/mongo.png)
+[![Fluxo](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD0rHZy9nhAhVkH7kGHXESCd8QjRx6BAgBEAU&url=https%3A%2F%2Fdocs.mongodb.com%2Fmanual%2Freplication&psig=AOvVaw2NA84eed-8OZ0qG1a1KDLO&ust=1555675152884691)](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD0rHZy9nhAhVkH7kGHXESCd8QjRx6BAgBEAU&url=https%3A%2F%2Fdocs.mongodb.com%2Fmanual%2Freplication&psig=AOvVaw2NA84eed-8OZ0qG1a1KDLO&ust=1555675152884691)
 
 Em ambos os servidores temos Docker instalado e ambos os serviços do Mongo 
 executam em containers. Abaixo o histórico de comandos utilizados para montar 
